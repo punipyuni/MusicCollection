@@ -1,0 +1,79 @@
+.topDiv{
+    padding: 70px 30px 10px 0px;
+    margin: 0px auto;
+    background: #000000;
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-size: 125%;
+}
+
+body{
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Arial;
+}
+
+h1{
+    font-size: 250%;
+    display: inline-block;
+    line-height: 150px;
+}
+
+img{
+    width: 25%;
+    float: left;
+}
+
+footer{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.btn{
+    background-color: #bebebe;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 50%;
+}
+
+h2{
+    text-align: center;
+}
+
+.carousel-caption{
+    background-color: rgba(77, 77, 77, 0.1);
+    width: auto;
+}
+
+figcaption{
+    text-align: center;
+    margin-top: 10px;
+}
+
+audio{
+    display: block;
+    margin: 0 auto;
+}
+
+.library{
+    margin: 100px auto;
+}
+
+.card{
+    background-color: rgba(68, 68, 68, 0.575);
+    margin-top: 50px;
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.col{
+    margin-top: 30px;
+}
