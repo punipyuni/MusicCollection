@@ -1,2 +1,2 @@
-# MusicCollection
-Collection of my music
+# Music Collection
+Collection Of My Music
